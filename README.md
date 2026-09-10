@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img src="logo.jpg" alt="Logo">
-  <h3 align="center">Independent Activity 4: OAuth with Multiple Providers</h3>
+  <h3 align="center">Independent Activity 5: OAuth with Multiple Providers</h3>
 </div>
 
 ## Overview
@@ -57,7 +57,7 @@ This activity will help you understand the configuration differences between OAu
 
    ```bash
    git add .
-   git commit -m "Independent Activity 4 Complete"
+   git commit -m "Independent Activity 5 Complete"
    git push
    ```
 
